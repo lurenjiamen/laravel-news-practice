@@ -1,12 +1,12 @@
-|   \---11
-|       \---laravel-homestead-2-0
+- [ ] 11
+- [ ] laravel-homestead-2-0
 - [ ] 2015
-|   - [ ] 09
+- [ ] 09
 - [ ] flexible-maintainable-laravel-with-angular-material-apps
 - [ ] install-spark-in-an-existing-laravel-app
 - [ ] laravel-spark
-\---laravel-spark-deep-dive
-|   - [ ] 10
+- [ ] laravel-spark-deep-dive
+- [ ] 10
 - [ ] how-to-add-tagging-to-your-laravel-app
 - [ ] laravel-blade-directives
 - [ ] laravel-intermediate-tutorial
@@ -14,49 +14,49 @@
 - [x] learn-to-use-model-factories-in-laravel-5-1
 - [ ] lets-encrypt-is-now-browser-trusted
 - [ ] material-theme-for-phpstorm
-\---setup-bootstrap-sass-with-laravel-elixir
-|   \---11
-|       - [ ] laracon-us-2016-dates-announced
-|       \---laravel-5-2-a-look-at-whats-coming
+- [ ] setup-bootstrap-sass-with-laravel-elixir
+- [ ] 11
+- [ ] laracon-us-2016-dates-announced
+- [ ] laravel-5-2-a-look-at-whats-coming
 - [ ] 2015-in-review
 - [ ] 2016
-|   - [ ] 01
+- [ ] 01
 - [ ] adam-wathan-test-driven-laravel-from-scratch
 - [ ] automatically-upgrade-your-laravel-app-with-shift
 - [ ] laravel-gurus-relaunches
 - [ ] laravel-release-process
 - [ ] lumen-5-2-is-released
-\---wordpress-and-laravel
-|   - [ ] 02
+- [ ] wordpress-and-laravel
+- [ ] 02
 - [ ] github
 - [ ] laravel-up-and-running-available-for-preorder
 - [ ] new-speakers-announced-for-laracon-us
-\---operator-a-new-monospace-typeface
-|   - [ ] 03
+- [ ] operator-a-new-monospace-typeface
+- [ ] 03
 - [ ] add-laravel-unit-tests-directly-chrome
 - [ ] composer-hits-beta-1
 - [ ] github-relaxes-api-limit-composer-installs
 - [ ] laravel-exception-recorder-notifier-package
 - [ ] laravel-internals-discussion-moved-github
 - [ ] mail-preview-laravel-driver
-\---may-need-update-composer-json-file
-|   - [ ] 04
+- [ ] may-need-update-composer-json-file
+- [ ] 04
 - [ ] 6408
 - [ ] composer-hits-1-0
 - [ ] laravel-cheat-sheet
 - [ ] laravel-static-site-generator
 - [ ] spark-beta-now-available
-\---vue-js-v2-announced
-|   - [ ] 05
+- [ ] vue-js-v2-announced
+- [ ] 05
 - [ ] announcing-laravel-valet
-\---echo-coming-laravel-5-3
-|   - [ ] 06
+- [ ] echo-coming-laravel-5-3
+- [ ] 06
 - [ ] building-status-board-using-laravel-vue
-\---look-whats-coming-laravel-5-3
-|   - [ ] 07
+- [ ] look-whats-coming-laravel-5-3
+- [ ] 07
 - [ ] canvas-new-minimal-blogging-app
-\---october-cms-stable
-|   - [ ] 08
+- [ ] october-cms-stable
+- [ ] 08
 - [ ] gearing-laracon-eu
 - [ ] laracon-eu-interview-with-speaker-freek-van-der-herten
 - [ ] laracon-us-2016-recap
@@ -64,8 +64,8 @@
 - [ ] laravel-passport
 - [ ] upgrading-with-laravel-shift
 - [ ] video-taylor-otwell-covering-new-features-laravel-5-3
-\---welcome-to-the-next-version-of-laravel-news
-|   - [ ] 09
+- [ ] welcome-to-the-next-version-of-laravel-news
+- [ ] 09
 - [ ] computer-vision-syndrome
 - [ ] gitlab-raises-an-additional-20-million-and-announces-their-master-plan
 - [ ] hacktoberfest-2016
@@ -73,15 +73,15 @@
 - [ ] lumen-5-3-is-released
 - [ ] spark-v2
 - [ ] troubleshooting-laravel-valet-on-macos-sierra
-\---vim-8-0-is-released
-|   - [ ] 10
+- [ ] vim-8-0-is-released
+- [ ] 10
 - [ ] facebook-yarn
 - [ ] laravel-links
 - [ ] leanpub-announces-a-new-pricing-model
-\---unique-and-exists-validation
-|   \---11
-|       - [ ] burnout-exercise
-|       \---burnout-in-tech
+- [ ] unique-and-exists-validation
+- [ ] 11
+- [ ] burnout-exercise
+- [ ] burnout-in-tech
 - [ ] 2016-laravel-survey-results
 - [ ] 2017
 - [ ] 2018
@@ -131,12 +131,12 @@
 - [ ] artisan-files-sara-bine
 - [ ] artisanconf
 - [ ] assets
-|   - [ ] css
-|   - [ ] images
+- [ ] css
+- [ ] images
 - [ ] chatbot
 - [ ] min
-\---podcasters
-|   \---js
+- [ ] podcasters
+- [ ] js
 - [ ] atom-editor-why-coffeescript
 - [ ] atom-is-now-open-source
 - [ ] authentication-enhancements-in-laravel-5-3-sponsor
@@ -200,12 +200,12 @@
 - [ ] cascading-soft-deletes-eloquent
 - [ ] cashier-dompdf
 - [ ] category
-|   - [ ] elixir
-|   - [ ] homestead
-|   - [ ] laracon
-|   - [ ] laravel-packages
-|   - [ ] podcast
-|   \---the-artisan-files
+- [ ] elixir
+- [ ] homestead
+- [ ] laracon
+- [ ] laravel-packages
+- [ ] podcast
+- [ ] the-artisan-files
 - [ ] chandra-laravel-starter-kit-for-developers
 - [ ] chandra-laravel-starter-kit-for-developers-sponsor
 - [ ] chat-laravel-slack
@@ -813,37 +813,7 @@
 - [ ] phpunit-6
 - [ ] phpunit-phpstorm
 - [ ] piping-emails-to-a-laravel-application-sitepoint
-- [ ] podcast
-|   - [ ] 30
-|   - [ ] 31
-|   - [ ] 32
-|   - [ ] 33
-|   - [ ] 34
-|   - [ ] 35
-|   - [ ] 36
-|   - [ ] 37
-|   - [ ] 38
-|   - [ ] 39
-|   - [ ] 40
-|   - [ ] 41
-|   - [ ] 42
-|   - [ ] 43
-|   - [ ] 45
-|   - [ ] 46
-|   \---47
 - [ ] podcast-whats-coming-laravel-5-3
-- [ ] post
-|   - [ ] 72502121223
-|   - [ ] 74076862954
-|   - [ ] 74300436627
-|   - [ ] 77921283030
-|   - [ ] 77925032843
-|   - [ ] 78512784817
-|   - [ ] 80585916373
-|   - [ ] 81684342210
-|   - [ ] 82793786725
-|   - [ ] 83442333457
-|   \---83613378570
 - [ ] post-random-tweets-with-laravel-and-the-twitter-api
 - [ ] potion-laravel-assetic-package
 - [ ] president-obama-visits-indatus
@@ -873,7 +843,7 @@
 - [ ] require-dev-in-laravel
 - [ ] rescue-legacy-code-refactoring
 - [ ] resource
-|   \---187-captainhook-webhooks-for-laravel
+- [ ] 187-captainhook-webhooks-for-laravel
 - [ ] restful-deleting-in-laravel
 - [ ] revamping-laravel-news
 - [ ] reverse-engineering-spam-script
@@ -969,7 +939,7 @@
 - [ ] supercharging-your-gruntfile-how-to-squeeze-the-most-out-of-your-build-configuration
 - [ ] swagger-laravel
 - [ ] tag
-|   \---2014-amsterdam
+- [ ] 2014-amsterdam
 - [ ] take-a-breath
 - [ ] taylor-otwell-askes-community-experience-contributing-laravel
 - [ ] taylor-otwell-laracon-eu-2016-keynote
@@ -1083,12 +1053,12 @@
 - [ ] wordpress-and-laravel
 - [ ] wordpress-api-with-laravel
 - [ ] wp-content
-|   \---uploads
-|       \---2017
-|           \---01
+- [ ] uploads
+- [ ] 2017
+- [ ] 01
 - [ ] writing-your-first-unit-test-in-laravel
 - [ ] xdebug-phpstorm-valet
 - [ ] you-can-now-follow-laravel-release-announcements-from-medium
 - [ ] your-first-laravel-application
 - [ ] zendcon-call-for-papers-is-now-open
-\---?telerik-platform
+- [ ] ?telerik-platform
